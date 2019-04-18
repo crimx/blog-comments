@@ -1,3 +1,3 @@
 # blog-comments
 
-utterances🔮 comments on <https://blog.crimx.com>.
+[utterances🔮](https://utteranc.es) comments on <https://blog.crimx.com>.
